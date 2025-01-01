@@ -102,13 +102,13 @@
       <AssemblyReference>System.Runtime.InteropServices</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="892.0000000000001,2372.8" sap2010:WorkflowViewState.IdRef="Sequence_3">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="901.6000000000001,2547.2" sap2010:WorkflowViewState.IdRef="Sequence_3">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="550.4,2349.6" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="550.4,2358.4" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <Sequence.Variables>
         <Variable x:TypeArguments="x:Double" Name="VLOOKUP_Value" />
       </Sequence.Variables>
@@ -386,5 +386,6 @@
         </sap:WorkflowViewStateService.ViewState>
       </ueab:ExcelApplicationCard>
     </Sequence>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="550.4,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Process Completed&quot;]" />
   </Sequence>
 </Activity>
