@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CheckUncheck - 'My Table Has Headers'",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "1af24ew9WkGzi2rZRe72Yg",
+  "Reference": "nvCW-Sfnm0KdmQVpZFG3Qg/1af24ew9WkGzi2rZRe72Yg",
+  "ParentRef": "nvCW-Sfnm0KdmQVpZFG3Qg/qoEg8wFHo0GS6a62hV9zuQ",
+  "Created": "2024-12-24T12:38:54.3662893Z",
+  "Updated": "2024-12-24T12:38:54.3662893Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

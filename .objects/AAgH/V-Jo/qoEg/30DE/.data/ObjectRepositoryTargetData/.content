@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WpdiBV7BFkSDM3n0vYazlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6d17d714-a5e9-4429-9342-6210e8da6d81" CvTextArea="19, 73, 32, 12" CvTextArgument="SIS15" CvType="Text" DesignTimeRectangle="16, 68, 250, 25" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;uia cls='NetUIRefedit' name='Where is the data for your table?' /&gt;" FuzzySelectorArgument="&lt;uia cls='NetUIRefedit' name='Where is the data for your table?' role='Edit Box' automationid='' check:text='$I$15' /&gt;" Guid="cf7885cf-0d16-4b07-b397-3afb3bbda3fe" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Create Table' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8a89cf09216c4ab1ec4d224d778a5d20.png" xmlns="">0fh06cCOTVkq6Hk1V7yQYpA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
